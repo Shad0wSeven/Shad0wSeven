@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with developing an Emacs discord integration
 - 💬 Ask me about anything!
 - 📫 How to reach me: check below!!!!
-- ⚡ Fun fact: If you like spaces over tabs you are a degeneate. It's not an opinion, its a fact.
+- ⚡ Fun fact: If you like spaces over tabs you are a degenerate. It's not an opinion, its a fact.
 
 
 ```
