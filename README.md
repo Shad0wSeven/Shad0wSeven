@@ -1,16 +1,3 @@
-# General Stuff
-
-### Hi there 👋
-
-
-- 🔭 I’m currently working on USACO silver :c
-- 🌱 I’m currently learning C# and modeling techniques
-- 👯 I’m looking to collaborate on anything cool as long as I know the language!
-- 🤔 I’m looking for help with developing an Emacs discord integration
-- 💬 Ask me about anything!
-- 📫 How to reach me: check below!!!!
-- ⚡ Fun fact: If you like spaces over tabs you are a degenerate. It's not an opinion, its a fact.
-
 
 ```
 |||||||| ||    || ||||||| ||||||||  ////////// ||      || \\\\\\\\\\       //  //
