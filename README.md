@@ -3,27 +3,15 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on usaco problems
-- 🌱 I’m currently learning javascript
-- 👯 I’m looking to collaborate on nothing u suck
-- 🤔 I’m looking for help with finding motivation to complete this description
-- 💬 Ask me about nothign go away
-- 📫 How to reach me: please dont stalker
-- ⚡ Fun fact: i wrote this in 20 seconds
+- 🔭 I’m currently working on USACO silver :c
+- 🌱 I’m currently learning C# and modeling techniques
+- 👯 I’m looking to collaborate on anything cool as long as I know the language!
+- 🤔 I’m looking for help with developing an Emacs discord integration
+- 💬 Ask me about anything!
+- 📫 How to reach me: check below!!!!
+- ⚡ Fun fact: If you like spaces over tabs you are a degeneate. It's not an opinion, its a fact.
 
-stupid template
 
-in reality im just sitting around cramming for silver 
-
-litearlly just justin will read this
-
-but im an arcitc code contributor so thats incredible 
-
-:muscle: L
-
-github keeps telling me this is a special md file idfc ik that smh 
-
-covid sucks
 ```
 |||||||| ||    || ||||||| ||||||||  ////////// ||      || \\\\\\\\\\       //  //
 ||       ||    || ||   ||  ||    || //   // // ||      ||         \\    /////////
