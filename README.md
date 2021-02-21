@@ -19,25 +19,23 @@
 - Minecraft (idk why ill just include this here lmao): `Shad0w7`(might change to `XtremePlasma` since i want the nostalgia, so just search `Shad0w7` on namemc, the one with `minecraft_ayush` and `XtremePlasma` on history is mine.
 - ill add more later
 
-## Learning
+<div align="center">
 
-#### Learning
+### Languages Learning
 
-- Swift (Pretty good)
-- Nim (LOL)
-- R (Biology kill me now)
+</div>
 
-#### Want to Learn
 
-- Rust
-- Haskell
-- Go
 
-#### Have to Learn
-
-- Java (ugh)
-- Javascript (ugh)
-- Ruby (meh)
+- [x] Swift (Pretty good)
+- [x] Nim (LOL)
+- [x] R (Biology kill me now)
+- [ ] Rust
+- [ ] Haskell
+- [ ] Go
+- [ ] Java (ugh)
+- [x] Javascript (ugh)
+- [ ] Ruby (meh)
 
 <div align="center">
 
