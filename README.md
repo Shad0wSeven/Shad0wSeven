@@ -6,18 +6,7 @@
 |||||||| |||||||| |||||||  ||    || //  //  // ||  ||  ||        \\      //  //   \\\\\\ \\\\\\ \\\\\  \\\\\\
       || ||    || ||   ||  ||    || // //   // ||  ||  ||       \\    /////////   \\  \\    \\\   //   \\  \\
 |||||||| ||    || ||   || ||||||||  ////////// ||||||||||      \\      //  //     \\\\\\ \\\\\\  \\\\\ \\\\\\
-```
-<div align=center>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shad0wSeven&layout=compact&theme=default_repocard" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shad0wSeven&show_icons=true&theme=default_repocard" />
-</a>
-</div>
 
-
-```
                  .:rLfth1FUtYJ7ri:.                                        
           ::iiri77jthXbbDbZDRDR9Fci                                  
                       .:L1f1fhFXPEbDPj:                              
@@ -61,3 +50,12 @@
             .:i7LJYJcc7Lrri:::::,:,:,,.:rJt2JUjULL77Y1UfUFJ7r.,:,,,Jr
                      ...,.rti::,:,:,:,,..   rh1c7rLUhUtjf2Jr,.:,:,c7.
 ```
+
+<div align=center>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shad0wSeven&layout=compact&theme=default_repocard" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shad0wSeven&show_icons=true&theme=default_repocard" />
+</a>
+</div>
