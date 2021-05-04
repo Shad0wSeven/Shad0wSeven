@@ -60,6 +60,6 @@
 </a>
 </div>
 
-reload this to increase my ego.
+reload this to increase my ego. (i just added this i hope my profile isnt this devoid of life ;-;)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dzlandis.visitor-badge.issue.1)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Shad0wSeven.visitor-badge.issue.1)
