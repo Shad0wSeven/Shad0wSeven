@@ -59,3 +59,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shad0wSeven&show_icons=true&theme=default_repocard" />
 </a>
 </div>
+
+reload this to increase my ego.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dzlandis.visitor-badge.issue.1)
