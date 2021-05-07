@@ -1,4 +1,4 @@
-
+### NOTE: Unless I am wasting time, I won't be avalible or update any projects until June 9th.
       
 ```
 |||||||| ||    || ||||||| ||||||||  ////////// ||      || \\\\\\\\\\       //  //
