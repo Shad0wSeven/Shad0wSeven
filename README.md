@@ -101,7 +101,7 @@ ____^/\___^--____/\____O______________/\/\---/\___________---______________
    --  __                      ___--  ^  ^                         --  __
 ```
 
-<div align=center>
+<!-- <div align=center>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shad0wSeven&layout=compact&theme=default_repocard" />
 </a>
@@ -113,3 +113,4 @@ ____^/\___^--____/\____O______________/\/\---/\___________---______________
 reload this to increase my ego. (i just added this i hope my profile isnt this devoid of life ;-;)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Shad0wSeven.visitor-badge.issue.1)
+ -->
