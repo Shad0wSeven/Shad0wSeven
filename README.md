@@ -51,7 +51,15 @@
             .:i7LJYJcc7Lrri:::::,:,:,,.:rJt2JUjULL77Y1UfUFJ7r.,:,,,Jr
                      ...,.rti::,:,:,:,,..   rh1c7rLUhUtjf2Jr,.:,:,c7.
 ```-->
-                  
+   
+   
+<div align=center>
+      
+### *“Weekends don't count unless you spend them doing something completely pointless.”*
+
+*― Bill Watterson*  
+      </div>
+
 ```
                      
 o               .        ___---___                    .        .        .           
