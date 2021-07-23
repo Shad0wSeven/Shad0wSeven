@@ -57,9 +57,17 @@
       
 ### *“Weekends don't count unless you spend them doing something completely pointless.”*
 
-*― Bill Watterson*  
-      </div>
+*― Bill Watterson* 
+      
+      
+      
+      
+<img src="https://user-images.githubusercontent.com/19739712/126731337-ae2eece0-04d7-433a-9f32-41d0e95609fa.png" alt="drawing" height="300"/>
+      
 
+      
+</div>
+<!-- 
 ```
                      
 o               .        ___---___                    .        .        .           
@@ -99,7 +107,7 @@ ____^/\___^--____/\____O______________/\/\---/\___________---______________
    /\^   ^  ^    ^                  ^^ ^  '\ ^          ^       ---
          --           -            --  -      -         ---  __       ^
    --  __                      ___--  ^  ^                         --  __
-```
+``` -->
 
 <!-- <div align=center>
 <a href="https://github.com/anuraghazra/github-readme-stats">
