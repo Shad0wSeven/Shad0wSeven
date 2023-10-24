@@ -55,9 +55,9 @@
    
 <div align=center>
       
-### *“Weekends don't count unless you spend them doing something completely pointless.”*
+<!--### *“Weekends don't count unless you spend them doing something completely pointless.”*
 
-*― Bill Watterson* <br><br><br>
+*― Bill Watterson* <br><br><br>-->
       
       
       
